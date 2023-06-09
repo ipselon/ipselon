@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander Pustovalov. I live in the city of Kyiv, Ukraine.
+My name is Oleksandr Pustovalov. I live in the city of Kyiv, Ukraine.
 
 ### Education and Early Career
 
