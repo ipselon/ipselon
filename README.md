@@ -46,7 +46,7 @@ The Wix company noticed Webcodesk and invited me to try adapting or reworking it
 
 ### New Independent Endeavor
 
-After 2 years of working at Wix, I decided to create a product that people really need. And I decided to create a CMS for NextJS. That's what I'm currently working on.
+After 2 years of working at Wix, I decided to create a product that people really need...
 
 ## 📫 Get in Touch
 
